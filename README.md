@@ -22,6 +22,7 @@ This index categorizes the technical deliverables and milestone reports generate
 
 * **[Technical Report: Numerical Stability & Singularity Resolution](./Gambit_Logit_Algorithm.pdf)**: Documentation of my candidate solution utilizing Sard's Theorem and multidimensional symmetry breaking to stabilize predictor-corrector path-following solvers near bifurcation points (Resolving Issue #492).
 * **[GSoC 2026 Accepted Proposal](./GSoC_Gambit_Application.pdf)**: The official project roadmap, outlining the mathematical methodology, variable transformation frameworks, and the 175-hour development schedule.
+* **[GSoC 2026 scikit_bio Proposal](./GSoC_scikit-bio_Application.pdf)**: Technical proposal for the `scikit-bio` library focused on implementing iterative methods for high-dimensional biological data matrices. This project reached the final selection stages, demonstrating interoperability and data transformation capabilities using the Python Array API standard (NEP 47).
 * *[Forthcoming]* **Phase 1 Evaluation Report**: Dynamic stress-testing of perturbation vectors and formal C++ exception handling integration.
 * *[Forthcoming]* **Phase 2 Evaluation Report**: Implementation of analytical Jacobian matrices for the Euler predictor and Newton-Raphson corrector phases within the Herings & Peeters trajectory.
 
