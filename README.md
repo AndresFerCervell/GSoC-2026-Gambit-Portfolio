@@ -35,6 +35,6 @@ This index categorizes the technical deliverables and milestone reports generate
 ---
 
 ## 🔗 Professional Links
-* **LinkedIn Profile:** [Andrés Fernández Cervell](https://linkedin.com/in/andres-fernandez-cervell) 
+* **LinkedIn Profile:** [Andrés Fernández Cervell][(https://linkedin.com/in/andres-fernandez-cervell)](https://www.linkedin.com/in/andr%C3%A9s-fern%C3%A1ndez-cervell-0897943a8/) 
 * **Official Institution:** [Universidad de Granada](https://www.ugr.es/)
 * **Gambit Project Repository:** [gambitproject/gambit](https://github.com/gambitproject/gambit)
